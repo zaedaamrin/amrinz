@@ -119,16 +119,20 @@ h6 {
 }
 
 #work span {
-    color: #85C4DB;
+    /* color: #85C4DB; */
+    /* color: rgb(114, 170, 138); */
+    color: #c95165;
+    /* color: #DEB83F; */
     font-weight: bold;
 }
 
 .skills-row {
+    color: black;
     display: flex;
     font-family: 'DM Serif Text', serif;
     font-weight: bold;
     justify-content: space-between;
-    width: 70%;
+    width: 74%;
 }
 
 .label {
